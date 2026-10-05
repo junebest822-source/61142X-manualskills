@@ -116,8 +116,8 @@ void competition_initialize() {}
  * from where it left off.
  */
 void autonomous() {
-    chassis.setPose(0,0,0);
-    chassis.turnToHeading(90,1000000);
+    //Manual skills code btw
+    //btw stands for by the way btw
 }
 
 /**
